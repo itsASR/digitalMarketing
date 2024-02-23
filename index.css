@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header{
+    position: sticky;
+    top: 0%;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+
+
+.navbar-nav a {
+    color: white;
+}
+
+.navbar-brand img {
+    width: 120px;
+    /* height: 85px; */
+    margin: -44px 15px !important;
+}
+
+
+/* _________below-header______ */
+
+.intro{
+    color: white !important;
+}
+
+.below-header {
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    padding-top: 5%;
+}
+
+.play-icon {
+    width: 35px;
+    height: 35px;
+    margin-left: 15px !important;
+}
+
+.below-header-span {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 45px;
+}
+
+.wave {
+    width: 100%;
+}
+
+.what-offer{
+    margin: 35px 0px !important;
+}
+
+.what-offers{
+    margin: 75px 0px !important;
+}
+
+.right-logo {
+    width: 100%;
+}
+
+.sect img {
+    /* width: 100px; */
+    height: 100px;
+}
+
+.popo{
+    margin: 0px !important;
+}
+
+.img-tab{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    width: 300px;
+}
+
+.Testimonial img{
+    width: 50px;
+    height: 50px;
+}
+
+.Testimonial{
+    border-left: 5px solid purple;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+.p{
+    display: inline-block;
+}
+
+.watch-now{
+    padding-left: 15px !important;
+    margin: 0px !important;
+    color: white !important;
+}
+
+.last{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    margin-top: 100px;
+}
+
+.info-sec{
+    color: white;
+    /* margin-top: 40px !important;
+    margin-left: 85px !important;
+    margin-right: 0px !important; */
+}
+
+.social-media{
+    margin-left: -8px !important;
+    margin-bottom: 15px;
+}
+
+.container.social-media {
+    margin-left: -5px !important;
+}
+
+.credit{
+    border-top: 1px solid black;
+    margin-bottom: 0px !important;
+}
+
+.tru a:hover{
+    transform: rotate(60deg);
+}
+
+.tru a{
+    transition: all 1s;
+}
